@@ -47,3 +47,5 @@ export class Heap {
         this.heap.map((x) => x ? console.log(`value: ${x.value} weight: ${x.weight}`) : null);
     }
 }
+
+// Props to Mike Peritz from CodeBurst.io for this starter sample. I'm gonna edit it as I move along
