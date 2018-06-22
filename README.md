@@ -5,3 +5,5 @@ A general purpose Huffman coding structure written in JavaScript
 
 I just wanted to have fun with some data structures, and building a proper Huffman coding implementation
 seemed fun. I want to be able to make this general purpose, but we'll see how it goes. 
+
+I woud not advise using this in any serious project!
